@@ -1,4 +1,4 @@
-export const API_KEY = 'AIzaSyALtxhDNcwuU-W6LJ1PF7Skqnm7UuiTnwo'
+export const API_KEY = 'YOUR_API_KEY'  //go to "https://developers.google.com/youtube/v3/getting-started" , click on Google developer console, generate project then you will get the API_KEY
 
 export const value_converter = (value) => {
     if(value>=1000000){
